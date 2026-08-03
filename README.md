@@ -25,4 +25,4 @@ A Python-based network packet sniffer developed as part of the CodeAlpha Cyber S
    python network_sniffer.py
 
 ## Author
-Your Name
+Kishore Kumar S
